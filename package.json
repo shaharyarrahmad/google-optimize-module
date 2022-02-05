@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-google-optimize-custom",
+  "name": "nuxt-google-optimize-modesens",
   "version": "0.5.4",
   "description": "SSR friendly Google Optimize module for Nuxt.js",
   "license": "MIT",
@@ -15,7 +15,7 @@
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/alibaba-aero/nuxt-google-optimize",
+  "repository": "https://github.com/shaharyarrahmad/google-optimize-module",
   "publishConfig": {
     "access": "public"
   },
